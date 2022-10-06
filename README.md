@@ -1,4 +1,5 @@
-# Discuz X! Reader - Discuz X! 通用论坛 阅读器 
+# Discuz X! Reader - Discuz X! 通用论坛 阅读器  | [download.md](最新版本下载)
+
 
 ### app功能
 
